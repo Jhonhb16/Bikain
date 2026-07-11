@@ -1,0 +1,6 @@
+{
+  "name": "Bikain - Test y Landing de Relaciones",
+  "description": "Una réplica interactiva del flujo de Calma Total adaptada al producto Bikain para reconocer patrones que sabotean las relaciones de pareja.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
