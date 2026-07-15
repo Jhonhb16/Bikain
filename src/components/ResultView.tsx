@@ -318,7 +318,7 @@ export default function ResultView({ answers, onGoToLanding }: ResultViewProps) 
         </button>
 
         <a
-          href="https://bikain.iagentflow.pro/checkout"
+          href="https://www.mercadopago.com.co/checkout/v1/redirect?pref_id=233233780-d861c2e8-1b6b-4ae9-a3e5-d3f2b42eda58"
           target="_blank"
           referrerPolicy="no-referrer"
           className="block w-full text-center mt-3 bg-ink hover:bg-ink/90 text-white font-bold py-4 px-6 rounded-2xl text-sm transition-all duration-200"

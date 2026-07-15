@@ -186,7 +186,7 @@ export default function LandingView({ onBackToQuiz }: LandingViewProps) {
           </div>
 
           <a 
-            href="https://bikain.iagentflow.pro/checkout" 
+            href="https://www.mercadopago.com.co/checkout/v1/redirect?pref_id=233233780-d861c2e8-1b6b-4ae9-a3e5-d3f2b42eda58" 
             target="_blank"
             referrerPolicy="no-referrer"
             className="block w-full bg-wine hover:bg-wine-light text-white text-center font-bold py-4.5 px-6 rounded-2xl text-base transition-all duration-200 active:scale-95 shadow-lg shadow-wine/20"
@@ -554,7 +554,7 @@ export default function LandingView({ onBackToQuiz }: LandingViewProps) {
         </div>
 
         <a 
-          href="https://bikain.iagentflow.pro/checkout" 
+          href="https://www.mercadopago.com.co/checkout/v1/redirect?pref_id=233233780-d861c2e8-1b6b-4ae9-a3e5-d3f2b42eda58" 
           target="_blank"
           referrerPolicy="no-referrer"
           className="block w-full bg-wine hover:bg-wine-light text-white text-center font-bold py-4.5 px-6 rounded-2xl text-base transition-all duration-200 active:scale-95 shadow-lg shadow-wine/20"
@@ -617,7 +617,7 @@ export default function LandingView({ onBackToQuiz }: LandingViewProps) {
           <div className="text-lg font-extrabold text-ink leading-tight font-sans">$9 USD<span className="text-xs text-wine font-semibold">/mes</span></div>
         </div>
         <a 
-          href="https://bikain.iagentflow.pro/checkout" 
+          href="https://www.mercadopago.com.co/checkout/v1/redirect?pref_id=233233780-d861c2e8-1b6b-4ae9-a3e5-d3f2b42eda58" 
           target="_blank"
           referrerPolicy="no-referrer"
           className="flex-1 bg-wine hover:bg-wine-light text-white text-center font-bold py-3.5 rounded-xl text-sm shadow-md shadow-wine/25"
